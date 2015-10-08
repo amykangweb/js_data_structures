@@ -1,0 +1,15 @@
+{
+  "name": "js_data_structures",
+  "version": "1.0.0",
+  "description": "JavaScript Data Structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Amy Kang",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
